@@ -6,4 +6,3 @@ This repository contains the implementation, datasets, and results for our proje
 2. **ML-Based Goal Detection:** Employs ResNet50 with ImageNet weights for binary classification (Goal/Not a Goal).
 3. **Simulation-Driven Insights:** Includes Remcom WaveFarer simulations to analyze reflection patterns under various conditions.
 4. **Evaluation and Results:** Presents the effect of radar placement and observation angles.
-
